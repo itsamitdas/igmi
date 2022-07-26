@@ -1,0 +1,125 @@
+{
+  "status": 1,
+  "message": "Data not found",
+  "listed": [
+   {
+      "business_name": "LENCLUME",
+      "image": "https://igmiweb.com/gladdenhub/uploads/6058afc1f0186.jpg",
+      "rating": "3",
+      "id": "7",
+      "address": "Greek St, Leeds LS1 5RU, United Kingdom",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sintlorem ipsum lorem ipsum lorem ipsumlorem ipsumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sintlorem ipsum lorem ipsum lorem ipsumlorem ipsum",
+      "restaurant_type": [],
+      "time_available": [],
+      "seat_available": "na",
+      "get_time": "navlbl",
+      "service_provider": "YHQ15ZFY",
+      "price": 0
+    },
+    {
+      "business_name": "KAKA DA DHABA",
+      "image": "https://igmiweb.com/gladdenhub/uploads/6058af32afe7f.jpg",
+      "rating": "3",
+      "id": "6",
+      "address": "Greek St, Leeds LS1 5RU, United Kingdom",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sintlorem ipsum lorem ipsum lorem ipsumlorem ipsum",
+      "restaurant_type": [
+        {
+          "name": "South Indian",
+          "id": "1"
+        }
+      ],
+      "time_available": [
+        {
+          "time": "10:00 am"
+        },
+        {
+          "time": "10:30 am"
+        },
+        {
+          "time": "11:00 am"
+        },
+        {
+          "time": "11:30 am"
+        },
+        {
+          "time": "12:00 pm"
+        },
+        {
+          "time": "12:30 pm"
+        },
+        {
+          "time": "01:00 pm"
+        },
+        {
+          "time": "01:30 pm"
+        },
+        {
+          "time": "02:00 pm"
+        },
+        {
+          "time": "02:30 pm"
+        },
+        {
+          "time": "03:00 pm"
+        },
+        {
+          "time": "03:30 pm"
+        },
+        {
+          "time": "04:00 pm"
+        },
+        {
+          "time": "04:30 pm"
+        },
+        {
+          "time": "05:00 pm"
+        },
+        {
+          "time": "05:30 pm"
+        },
+        {
+          "time": "06:00 pm"
+        },
+        {
+          "time": "06:30 pm"
+        },
+        {
+          "time": "07:00 pm"
+        },
+        {
+          "time": "07:30 pm"
+        },
+        {
+          "time": "08:00 pm"
+        },
+        {
+          "time": "08:30 pm"
+        },
+        {
+          "time": "09:00 pm"
+        },
+        {
+          "time": "09:30 pm"
+        },
+        {
+          "time": "10:00 pm"
+        },
+        {
+          "time": "10:30 pm"
+        },
+        {
+          "time": "11:00 pm"
+        },
+        {
+          "time": "11:30 pm"
+        }
+      ],
+      "seat_available": "na",
+      "get_time": "avlbl",
+      "service_provider": "ZA8KUUNA8",
+      "price": 0
+    }
+    
+  ]
+}
